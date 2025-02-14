@@ -1,4 +1,6 @@
 ## 模型排行榜
+* [Huggingface Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/)
+* [C-Eval](https://cevalbenchmark.com/static/leaderboard.html) - 香港大学中文模型榜（刷榜严重，仅供参考）
 
 ## 本地模型
 

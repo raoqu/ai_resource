@@ -12,6 +12,9 @@
 * [bartowski/gemma-2-9b-it-GGUF](https://huggingface.co/bartowski/gemma-2-9b-it-GGUF) 2024.07.16
 * [bartowski/gemma-2-27b-it-GGUF](https://huggingface.co/bartowski/gemma-2-27b-it-GGUF) 2024.07.04
 
+### 视频生成
+* [通义万相](https://tongyi.aliyun.com/wanxiang/videoCreation)
+
 ### 视觉理解
 * [Vision Language Models Explained](https://huggingface.co/blog/vlms)
 
